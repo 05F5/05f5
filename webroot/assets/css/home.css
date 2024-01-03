@@ -1,0 +1,38 @@
+.home section p {
+    width: 80%;
+}
+.home section.participants .avatar {
+    float: left;
+    height: 8rem;
+    width: 8rem;
+    margin-right:1rem;
+    margin-bottom: 2.4rem;
+}
+.home section.participants .avatar.empty.round {
+    height: 8rem;
+}
+.home section.participants .avatar.empty.round span {
+    text-align: center;
+    width: 8rem;
+    margin-top: 1.4rem;
+}
+
+@media only screen and (min-width: 80rem) {
+    .home  main .container.first {
+        padding-top: 5rem;
+        background: transparent url("../img/scribbles/scribble_top.svg") 0 0/cover no-repeat;
+        background-size: 86rem;
+        background-position-y: -35rem;
+        background-position-x: 21rem;
+        max-width: 115rem;
+        min-height: 14.3rem;
+    }
+    .home main section {
+        float: left;
+        width:50rem;
+        margin-right:5rem;
+    }
+    .home section.growth {
+        margin-top: 19rem;
+    }
+}
