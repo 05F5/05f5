@@ -30,7 +30,7 @@
 /* typography */
 @font-face {
     font-family: Inter;
-    src: url(../fonts/inter/Inter-VariableFont_slnt,wght.ttf);
+    src: url(../fonts/Inter/Inter-VariableFont_slnt,wght.ttf);
 }
 
 html {
@@ -180,7 +180,7 @@ nav a.logo {
 }
 
 @media only screen and (min-width: 80rem) {
-    .something {
+    header .decorator-frame {
         width: calc(100% - 20rem);
         position: absolute;
         top: 0;
@@ -198,7 +198,7 @@ nav a.logo {
     .second-header-container {
         z-index: 2;
         max-width: 115rem;
-        min-height: 16.3rem;
+        min-height: 16.4rem;
         margin: auto;
         background: transparent url("../img/scribbles/clipped_scribble_top.svg") 0 0/cover no-repeat;
         background-size: 110rem;
@@ -208,6 +208,15 @@ nav a.logo {
     }
     .second-header-container .when {
         margin-right: 25rem;
+    }
+    main .container:first-child {
+        padding-top: 5rem;
+        background: transparent url("../img/scribbles/scribble_top.svg") 0 0/cover no-repeat;
+        background-size: 86rem;
+        background-position-y: -35rem;
+        background-position-x: 21rem;
+        max-width: 115rem;
+        min-height: 14.3rem;
     }
 }
 
@@ -219,6 +228,17 @@ main .container {
     max-width: 115rem;
     padding: 1.8rem;
     margin: auto;
+}
+main article {
+    max-width: 80rem;
+}
+main article ul {
+    list-style: initial;
+    margin-left:2rem;
+    padding-bottom:1.6rem;
+}
+main article img {
+    padding-bottom:1.6rem;
 }
 
 /* footers */
@@ -234,6 +254,13 @@ main .container {
     width: 22rem;
     height: 5rem;
     background: no-repeat left/75% url("../img/sponsors/eoc.png");
+}
+@media only screen and (min-width: 80rem) {
+    main .footprints section {
+        float: left;
+        width: 50rem;
+        margin-right: 5rem;
+    }
 }
 .footprints .organizers a.passbolt {
     float:left;

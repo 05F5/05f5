@@ -1,3 +1,3 @@
 Work in progress...
 
-Copyright (c) Open Source Founder Summit
+Copyright (c) Open Source Founders Summit
