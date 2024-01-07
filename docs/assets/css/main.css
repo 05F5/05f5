@@ -104,7 +104,9 @@ a.cta {
     border-radius: 3.2rem;
     padding:1rem 2rem;
     display:inline-block;
-    margin-bottom: 2rem;
+}
+main a.cta {
+    margin: 2rem 0;
 }
 
 /* header */
@@ -231,6 +233,7 @@ main .container {
 }
 main article {
     max-width: 80rem;
+    margin-bottom: 5rem;
 }
 main article ul {
     list-style: initial;
@@ -241,12 +244,19 @@ main article img {
     padding-bottom:1.6rem;
 }
 
+main article p + h2,
+main article p + h3 {
+    margin-top:2rem;
+}
 /* footers */
 .footprints {
     background: var(--color-news-orange);
     margin-top:2rem;
-    padding:2rem 0 4rem 0;
+    padding-bottom:4rem;
     border-bottom:.8rem solid var(--color-deep-purple)
+}
+.footprints .cta {
+    margin-top:0;
 }
 .footprints .organizers a.eoc {
     margin-right:2rem;
