@@ -1,2 +1,5 @@
-User-agent: *
-Disallow: /
+# Host
+Host: https://05F5.com
+
+# Sitemaps
+Sitemap: https://05F5.com/sitemap.xml
