@@ -108,6 +108,10 @@ a.cta {
 main a.cta {
     margin: 2rem 0;
 }
+a.cta.disabled {
+    background:#CCC;
+}
+
 
 /* header */
 header {
@@ -239,6 +243,9 @@ main article ul {
     list-style: initial;
     margin-left:2rem;
     padding-bottom:1.6rem;
+}
+main article ul li {
+    padding-bottom:1rem;
 }
 main article img {
     padding-bottom:1.6rem;
