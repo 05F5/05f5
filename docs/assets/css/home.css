@@ -1,7 +1,4 @@
-.home section h3,
-.home section p {
-    width: 80%;
-}
+
 .home section.participants .avatar {
     float: left;
     height: 8rem;
@@ -19,6 +16,10 @@
 }
 
 @media only screen and (min-width: 80rem) {
+    .home section h3,
+    .home section p {
+        width: 80%;
+    }
     .home  main .container:first-child {
         padding-top: 5rem;
         background: transparent url("../img/scribbles/scribble_top.svg") 0 0/cover no-repeat;
