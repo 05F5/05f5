@@ -254,15 +254,37 @@ main article p + h2,
 main article p + h3 {
     margin-top:2rem;
 }
+
+/* newsletters */
+.newsletter input[type=email] {
+    font-size:2rem;
+    padding: 1rem 1rem 1rem 2rem;
+    border-radius: 20rem 0 0 20rem ;
+    border: 1px solid #CCC;
+    float:left;
+}
+.newsletter button {
+    font-size:2rem;
+    padding: 1rem 3rem;
+    float:left;
+    background:#000;
+    color:#FFF;
+    border-radius: 0 20rem 20rem 0;
+    border: 1px solid #000;
+}
+.newsletter .smallprints {
+    clear:left;
+    padding:1rem 0 0 1rem;
+}
 /* footers */
 .footprints {
     background: var(--color-news-orange);
     margin-top:2rem;
-    padding-bottom:4rem;
+    padding-bottom:1rem;
     border-bottom:.8rem solid var(--color-deep-purple)
 }
 .footprints .cta {
-    margin-top:0;
+    margin-top:3rem;
 }
 .footprints .organizers a.eoc {
     margin-right:2rem;
