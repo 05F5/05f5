@@ -14,7 +14,7 @@
 }
 .request-invite .tickets-header .ticket {
     border-radius: 3rem 0 0 0;
-    border-bottom:2px dotted #CCC;
+    border-bottom:4px dotted #FFF;
     clip-path: polygon(0% 0%, 100% 0%, calc(100% + 0em) calc(50% - 2em), calc(100% - 0.39em) calc(50% - 1.962em), calc(100% - 0.766em) calc(50% - 1.848em), calc(100% - 1.112em) calc(50% - 1.662em), calc(100% - 1.414em) calc(50% - 1.414em), calc(100% - 1.662em) calc(50% - 1.112em), calc(100% - 1.848em) calc(50% - 0.766em), calc(100% - 1.962em) calc(50% - 0.39em), calc(100% - 2em) calc(50% + 0em), calc(100% - 1.962em) calc(50% + 0.39em), calc(100% - 1.848em) calc(50% + 0.766em), calc(100% - 1.662em) calc(50% + 1.112em), calc(100% - 1.414em) calc(50% + 1.414em), calc(100% - 1.112em) calc(50% + 1.662em), calc(100% - 0.766em) calc(50% + 1.848em), calc(100% - 0.39em) calc(50% + 1.962em), calc(100% + 0em) calc(50% + 2em), 100% 100%, 0% 100%);
 }
 .request-invite .ticket-type {
