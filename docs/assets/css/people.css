@@ -1,0 +1,54 @@
+
+.people .people-profile .people-header h2:before {
+    display:none;
+}
+.people .people-profile .people-header .people-picture {
+    float:left;
+    padding-bottom: 2rem;
+}
+.people .people-profile .people-header .people-info {
+    float:left;
+    padding-left:2rem;
+}
+.people .people-profile .people-header h2 {
+    padding-bottom:1rem;
+    margin-top:1.5rem;
+}
+.people .people-profile .people-header h3 {
+     padding-bottom:.5rem;
+ }
+.people .people-profile .people-header h4 a{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.people .schedule .session .session-timing {
+    width: 25%;
+}
+.people .schedule .session .session-description {
+    max-width: 70%;
+}
+.people .people-schedule {
+    margin-top: 2rem;
+}
+.people  .schedule .session  {
+    border-top: 0.3rem solid #000;
+    padding-top:2rem;
+    border-bottom: 0.1rem solid #000;
+}
+
+@media only screen and (min-width: 80rem) {
+
+    .people .people-profile {
+        float:left;
+        max-width: 50%;
+    }
+    .people main section {
+        float: left;
+        width: 50rem;
+        margin-right: 5rem;
+    }
+    .people .people-schedule {
+        float:left;
+        max-width: 50%;
+    }
+}
