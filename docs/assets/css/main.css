@@ -234,10 +234,13 @@ main .container {
     max-width: 115rem;
     padding: 1.8rem;
     margin: auto;
+    margin-bottom:5rem;
 }
 main article {
+    margin-bottom: 7rem;
+}
+main article section {
     max-width: 80rem;
-    margin-bottom: 5rem;
 }
 main article ul {
     list-style: initial;
@@ -257,7 +260,8 @@ main article p + h3 {
 main blockquote {
     padding:2rem 0;
     margin:0;
-    font-size: 2rem;
+    font-size: 1.6rem;
+    font-weight: bold;
 }
 /* newsletters */
 .newsletter input[type=email] {
@@ -338,4 +342,27 @@ footer nav a.logo {
     background: transparent url("../img/icons/twitter.svg") 0 center no-repeat;
     background-size: 1.5rem;
     padding-left:2.5rem;
+}
+
+/* people badges */
+.people-header h2:before {
+    display:none;
+}
+.people-header .people-picture {
+    float:left;
+}
+.people-header .people-info {
+    float:left;
+    padding-left:2rem;
+}
+.people-header h2 {
+    padding-bottom:1rem;
+    margin-top:1.5rem;
+}
+.people-header h3 {
+    padding-bottom:.5rem;
+}
+.people-header h4 a{
+    text-transform: uppercase;
+    font-weight: bold;
 }
