@@ -1,0 +1,20 @@
+---
+title: Speaker -
+first_name:
+last_name:
+org_position:
+org_name:
+slug:
+categories: [speaker]
+layout: participants
+---
+<blockquote>
+
+</blockquote>
+<p>
+
+</p>
+<ul class="people-link">
+    <li><a class="icon icon-linkedin" href="">LinkedIn</a></li>
+    <li><a class="icon icon-link" href=""></a></li>
+</ul>

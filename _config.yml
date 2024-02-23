@@ -57,6 +57,8 @@ destination: docs
 
 # Exclude from processing.
 exclude:
+  - _participants/empty
+  - _sessions/empty
   - LICENSE
   - doc
   - package.json
