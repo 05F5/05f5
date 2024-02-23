@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+{% include common/head.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/schedule.css" | absolute_url }}">
+</head>
+<body class="schedule">
+{% include common/header.html %}
+<main>
+    <div class="container clearfix">
+{{ content }}
+    </div>
+{% include common/footprints.html %}
+</main>
+{% include common/footer.html %}
+</body>
+</html>

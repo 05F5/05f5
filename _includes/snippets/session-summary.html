@@ -1,0 +1,13 @@
+{% assign session = include.session %}
+{% if session %}
+<div class="session">
+    {% include snippets/session-timing.html session=session %}
+    <div class="session-description">
+        <h4 class="session-title">{{ session.title }} ({{session.categories}})</h4>
+        <p>{{session.description}}</p>
+        <p><a href="{{ session.permalink | absolute_url }}">More info</a></p>
+    </div>
+</div>
+{% else %}
+<!-- session-summary session undefined -->
+{% endif %}

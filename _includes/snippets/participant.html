@@ -1,0 +1,22 @@
+{% assign first_name = include.first_name %}
+{% unless first_name %}{% assign first_name = page.first_name %}{% endunless %}
+{% assign last_name = include.last_name %}
+{% unless last_name %}{% assign last_name = page.last_name %}{% endunless %}
+{% assign org_position = include.org_position %}
+{% unless org_position %}{% assign org_position = page.org_position %}{% endunless %}
+{% assign org_name = include.org_name %}
+{% unless org_name %}{% assign org_name = page.org_name %}{% endunless %}
+{% assign slug = include.slug %}
+{% unless slug %}{% assign slug = page.slug %}{% endunless %}
+
+<div class="people-badge clearfix">
+    <div class="people-picture">
+        <img src="{{ "/assets/img/participants/" | absolute_url }}/{{ slug }}.png"
+            alt="Picture of {{ first_name }} {{ last_name }}">
+    </div>
+    <div class="people-info">
+        <h2>{{ first_name }} {{ last_name }}</h2>
+        <h3>{{ org_position }}</h3>
+        <h4>{{ org_name }}</h4>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+{% assign participant = include.participant %}
+{% if participant %}
+{% assign found = 0 %}{% assign foundMonday = 0 %}{% assign foundTuesday = 0 %}
+{% assign sorted_sessions = site.sessions | sort: session_start | reverse %}
+{% for session in sorted_sessions %}
+    {% for speaker in session.people %}
+        {% if participant == speaker %}
+
+            {% assign found = {{found | plus:1 }}%}
+            {% if found == 1 %}
+                <h2>Schedule</h2>
+            {% endif %}
+
+            {% assign day = {{session.session_start | date: "%d" }} %}
+            {% if day == "27" %}
+                {% assign foundMonday = {{foundMonday | plus:1 }} %}
+            {% elsif day == "28" %}
+                {% assign foundTuesday = {{foundTuesday | plus:1 }} %}
+            {% endif %}
+            {% if foundMonday == 1 or foundTuesday == 1 %}
+                <h3>{% include snippets/date.html datetime=session.session_start %}</h3>
+            {% endif %}
+
+            {% include snippets/session-summary.html session=session %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+{% if found > 1 %}
+    <a class="cta" href="{{ "/schedule" | absolute_url }}">Browse Schedule</a>
+{% endif %}
+{% else %}
+<!-- participant-session participant undefined -->
+{% endif %}

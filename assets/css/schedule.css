@@ -1,0 +1,74 @@
+.schedule main article {
+    max-width: 110rem;
+}
+.schedule article h3 {
+    border-bottom: .3rem solid var(--color-almost-black);
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    margin-top: .5rem;
+}
+.schedule article h3 sup {
+    font-size:1rem;
+}
+.schedule .schedule-intro {
+    max-width: 70rem;
+    margin-bottom: 2rem;
+}
+.schedule .day-schedule {
+    margin-bottom: 3.2rem;
+}
+.schedule .session {
+    border-bottom: .1rem solid #777;
+    padding-bottom: 1rem;
+    margin-bottom:2rem;
+}
+.schedule .session::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.schedule .session.break {
+    color: #777;
+}
+.schedule .session .session-timing {
+    float:left;
+    width:14%;
+    margin-right: 1rem;
+    font-weight: bold;
+    padding-top:.2rem;
+}
+.schedule .session .session-description {
+    max-width: 60%;
+    float:left;
+}
+.schedule .session .session-description h4 {
+    font-size:2rem;
+    font-weight: bold;
+    padding-bottom:.5rem;
+}
+.schedule .session .avatar {
+    float:right;
+    width: 5rem;
+    max-width:10%;;
+}
+.schedule .session .avatar + .avatar {
+    margin-right:-1rem;
+}
+
+.schedule-people img {
+    width: 10rem;
+}
+.schedule-people h2 {
+    margin-top: .5rem;
+}
+@media only screen and (min-width: 80rem) {
+    .schedule-content {
+        max-width:60rem;
+        margin-right: 5rem;
+        float:left;
+    }
+    .schedule-people {
+        max-width:50rem;
+        float:left;
+    }
+}
