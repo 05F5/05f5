@@ -5,12 +5,10 @@
 {% for session in sorted_sessions %}
     {% for speaker in session.people %}
         {% if participant == speaker %}
-
             {% assign found = {{found | plus:1 }}%}
             {% if found == 1 %}
                 <h2>Schedule</h2>
             {% endif %}
-
             {% assign day = {{session.session_start | date: "%d" }} %}
             {% if day == "27" %}
                 {% assign foundMonday = {{foundMonday | plus:1 }} %}
@@ -20,7 +18,9 @@
             {% if foundMonday == 1 or foundTuesday == 1 %}
                 <h3>{% include snippets/date.html datetime=session.session_start %}</h3>
             {% endif %}
-
+            {% if foundMonday == 0 and foundTuesday == 0 %}
+                <h3>Date to be announced</h3>
+            {% endif %}
             {% include snippets/session-summary.html session=session %}
         {% endif %}
     {% endfor %}

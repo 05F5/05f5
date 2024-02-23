@@ -1,0 +1,9 @@
+{% for participant in site.participants %}
+    {% if participant.slug == include.participant %}
+<div class="avatar">
+    <a href="{{ "/participants" | absolute_url }}/{{participant.slug}}">
+        <img src="{{ "/assets/img/participants" | absolute_url }}/{{participant.slug}}.png" alt="{{participant.first_name}} {{participant.last_name}} ({{participant.orgName}})">
+    </a>
+</div>
+    {% endif %}
+{% endfor %}

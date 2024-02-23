@@ -32,12 +32,12 @@ permalink: /
     <section class="participants">
         <h2>Who is participating?</h2>
         <ul class="avatars clearfix">
-            <li class="avatar"><img src="{{ "/assets/img/participants/thomas-di-giacomo.png" | absolute_url }}" alt="Thomas Di Giacomo (Suse)"></li>
-            <li class="avatar"><img src="{{ "/assets/img/participants/frank-karlitschek.png" | absolute_url }}" alt="Frank Karlitschek (Nextcloud)"></li>
-            <li class="avatar"><img src="{{ "/assets/img/participants/amandine-le-pape.png" | absolute_url }}" alt="Amandine Le Pape (Element)"></li>
-            <li class="avatar"><img src="{{ "/assets/img/participants/peter-zaitsev.png" | absolute_url }}" alt="Peter Zaitsev (Percona)"></li>
-            <li class="avatar"><img src="{{ "/assets/img/participants/pierre-burgy.png" | absolute_url }}" alt="Pierre Burgy (Strapi)"></li>
-            <li class="avatar"><img src="{{ "/assets/img/participants/garima-kapoor.png" | absolute_url }}" alt="Garima Kapoor (Min.io)"></li>
+            {% include snippets/participant-avatar-link.html participant="thomas-di-giacomo" %}
+            {% include snippets/participant-avatar-link.html participant="frank-karlitschek" %}
+            {% include snippets/participant-avatar-link.html participant="amandine-le-pape" %}
+            {% include snippets/participant-avatar-link.html participant="peter-zaitsev" %}
+            {% include snippets/participant-avatar-link.html participant="pierre-burgy" %}
+            {% include snippets/participant-avatar-link.html participant="garima-kapoor" %}
             <li class="avatar empty round"><span>You?</span></li>
         </ul>
         <h3>The event is for founders of open source companies, big or small.</h3>

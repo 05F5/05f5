@@ -1,4 +1,8 @@
 <span class="session-timing">
-    {% include snippets/time.html datetime=include.session.session_start %} -
-    {% include snippets/time.html datetime=include.session.session_end %}
+    {% if include.session.session_start %}
+        {% include snippets/time.html datetime=include.session.session_start %} -
+        {% include snippets/time.html datetime=include.session.session_end %}
+    {% else %}
+        TBD - TBD
+    {% endif %}
 </span>
