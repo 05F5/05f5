@@ -12,7 +12,12 @@
     padding-top:2rem;
     border-bottom: 0.1rem solid #000;
 }
-
+.people-profile {
+    margin-bottom:2rem;
+}
+.participant-sessions {
+    margin-bottom:1rem;
+}
 @media only screen and (min-width: 80rem) {
     .people .people-profile {
         float:left;

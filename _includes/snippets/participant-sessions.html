@@ -1,5 +1,6 @@
 {% assign participant = include.participant %}
 {% if participant %}
+<div class="participant-sessions">
 {% assign found = 0 %}{% assign foundMonday = 0 %}{% assign foundTuesday = 0 %}
 {% assign sorted_sessions = site.sessions | sort: session_start | reverse %}
 {% for session in sorted_sessions %}
@@ -25,9 +26,10 @@
         {% endif %}
     {% endfor %}
 {% endfor %}
-{% if found > 1 %}
+{% if found > 0 %}
     <a class="cta" href="{{ "/schedule" | absolute_url }}">Browse Schedule</a>
 {% endif %}
+</div>
 {% else %}
 <!-- participant-session participant undefined -->
 {% endif %}

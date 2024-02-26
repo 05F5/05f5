@@ -1,5 +1,5 @@
 ---
-title: Generating and converting leads from OSS project
+title: Generating and Converting Leads from OSS Project
 description: How to generate leads from your open source project, and turn those leads into customers
 people: [frank-karlitschek]
 session_start: 2024-05-27 09:35:00 Z

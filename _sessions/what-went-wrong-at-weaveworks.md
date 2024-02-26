@@ -1,5 +1,5 @@
 ---
-title: What went wrong at Weaveworks?
+title: What Went Wrong at Weaveworks?
 description: The CEO and founder of Weaveworks as well as of RabbitMQ takes a hard look at what went wrong at Weaveworks.
 people: [alexis-richardson]
 session_start: 
