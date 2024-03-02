@@ -265,6 +265,8 @@ main blockquote {
 }
 /* newsletters */
 .newsletter input[type=email] {
+    width:70%;
+    max-width: 38rem;
     font-size:2rem;
     padding: 1rem 1rem 1rem 2rem;
     border-radius: 20rem 0 0 20rem ;
@@ -272,13 +274,16 @@ main blockquote {
     float:left;
 }
 .newsletter button {
+    width:30%;
+    min-width: 8rem;
     font-size:2rem;
-    padding: 1rem 3rem;
+    padding: 1rem;
     float:left;
     background:#000;
     color:#FFF;
     border-radius: 0 20rem 20rem 0;
     border: 1px solid #000;
+    text-align: center;
 }
 .newsletter .smallprints {
     clear:left;
@@ -291,15 +296,66 @@ main blockquote {
     padding-bottom:1rem;
     border-bottom:.8rem solid var(--color-deep-purple)
 }
-.footprints .cta {
-    margin-top:3rem;
+
+
+/** sponsors */
+.footprints .organizers {
+    margin-bottom: 2rem;
 }
-.footprints .organizers a.eoc {
+.footprints a.logo {
+    margin-bottom: 1.5rem;
+    width: 22rem;
+    height: 7rem;
+    background-repeat: no-repeat;
+    background-position: 2rem center;
     margin-right:2rem;
     float:left;
-    width: 22rem;
+}
+.footprints a.eoc {
+    background-image: url("../img/sponsors/eoc.png");
+    background-size: 75%;
+}
+.footprints a.ef {
+    background-image: url("../img/sponsors/ef.png");
+    background-size: 60%;
+}
+.footprints a.passbolt {
+    background-image: url("../img/sponsors/passbolt.png");
+    background-size: 75%;
+}
+.footprints a.tr {
+    background-image: url("../img/sponsors/tr.png");
+    background-size: 45%;
+}
+.footprints a.moonlight-marketing {
+    background-image: url("../img/sponsors/mlm.svg");
+    background-size: 56%;
+}
+.footprints a.cta {
+
+}
+
+.footprints .socials {
+    margin-top: 4rem;
+}
+.footprints .social {
+    margin-bottom: 1rem;
+    width: 5rem;
     height: 5rem;
-    background: no-repeat left/75% url("../img/sponsors/eoc.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-right:2rem;
+    float:left;
+    border: 3px solid var(--color-deep-purple);
+    border-radius: 1rem;
+}
+.footprints .socials .icon-linkedin {
+    background-image: url("../img/icons/linkedin.svg");
+    background-size: 56%;
+}
+.footprints .socials .icon-email {
+    background-image: url("../img/icons/mail.svg");
+    background-size: 56%;
 }
 @media only screen and (min-width: 80rem) {
     main .footprints section {
@@ -307,12 +363,6 @@ main blockquote {
         width: 50rem;
         margin-right: 5rem;
     }
-}
-.footprints .organizers a.passbolt {
-    float:left;
-    width: 22rem;
-    height: 5rem;
-    background: no-repeat left/75% url("../img/sponsors/passbolt.png");
 }
 footer {
     background: var(--color-almost-black);
