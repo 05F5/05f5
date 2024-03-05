@@ -25,6 +25,9 @@ will not use it for any other purposes without your explicit consent.
 This website is hosted on [Github pages](https://github.com/05F5/05f5). It does not use any cookies or 3rd party
 javascript.
 
+On some pages this website embed iframes from [Transistor.fm](https://transistor.fm/) to display a podcast widget. It uses
+first party cookies to provide access to the service. See their [Cookie Policy](https://www.iubenda.com/privacy-policy/87497601/cookie-policy).
+
 Your survey data is stored on [Formbricks](https://formbricks.com/privacy-policy), an open source survey service 
 operating in Germany.
 
