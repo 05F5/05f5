@@ -21,9 +21,9 @@
             <section class="schedule-people">
                 {% assign type = page.categories.first | capitalize %}
                 {% if type == "Talk" %}
-                <h2>Speaker's info</h2>
+                <h2>Speaker info</h2>
                 {% else %}
-                <h2>Moderator's info</h2>
+                <h2>Moderator info</h2>
                 {% endif %}
 {% include snippets/session-speaker.html %}
             </section>
