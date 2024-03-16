@@ -8,7 +8,6 @@ categories: [workshop]
 layout: sessions
 slug: community-building
 permalink: /schedule/community-building
-published: false
 ---
 
 In this workshop, we will talk about how your project can build and sustain an active contributor community, without 
