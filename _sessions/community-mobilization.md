@@ -4,7 +4,7 @@ description: How to engage the open source community while seeking contributors 
 people: [aad-nales]
 session_start:
 session_end:
-categories: [talk]
+categories: [workshop]
 layout: sessions
 slug: community-mobilization
 permalink: /schedule/community-mobilization
