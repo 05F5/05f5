@@ -6,8 +6,9 @@ org_position:
 org_name:
 podcast:
 slug:
-categories: [speaker]
+categories: [speaker, participant, organizer, moderator, sponsor]
 layout: participants
+published: false
 ---
 <blockquote>
 
