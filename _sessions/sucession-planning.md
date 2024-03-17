@@ -7,7 +7,7 @@ session_end:
 categories: [workshop]
 layout: sessions
 slug: succession-planning
-permalink: /schedule/success-planning
+permalink: /schedule/succession-planning
 ---
 
 Perhaps, like me, you want to program until it's time to be carried out horizontally. Or perhaps you want to 
