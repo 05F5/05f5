@@ -353,6 +353,10 @@ main blockquote {
     background-image: url("../img/icons/linkedin.svg");
     background-size: 56%;
 }
+.footprints .socials .icon-github {
+    background-image: url("../img/icons/github.svg");
+    background-size: 56%;
+}
 .footprints .socials .icon-email {
     background-image: url("../img/icons/mail.svg");
     background-size: 56%;
