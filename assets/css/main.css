@@ -405,6 +405,10 @@ footer nav a.logo {
 .people-badge .people-picture {
     float:left;
 }
+.people-badge .people-picture img {
+    padding-bottom: 0;
+    width:120px;
+}
 .people-badge .people-info {
     float:left;
     padding-left:2rem;

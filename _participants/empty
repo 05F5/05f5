@@ -7,7 +7,7 @@ org_name:
 podcast:
 slug:
 categories: [speaker, participant, organizer, moderator, sponsor]
-layout: participants
+layout: participant
 published: false
 ---
 <blockquote>

@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
-{% include common/head.html %}
-    <link rel="stylesheet" href="{{ "/assets/css/schedule.css" | absolute_url }}">
+    {% include common/head.html %}
     <link rel="stylesheet" href="{{ "/assets/css/people.css" | absolute_url }}">
 </head>
-<body class="people">
+<body class="default">
 {% include common/header.html %}
 <main>
     <div class="container clearfix">
-        <section class="people-profile">
-            {% assign type = page.categories.first | capitalize %}
-            <h2>{{type}} info</h2>
-            {% include snippets/participant.html %}
-            {{ content }}
-        </section>
-        <section class="people-schedule schedule">
-            {% include snippets/participant-sessions.html participant=page.slug %}
-            {% include snippets/participant-podcast.html participant=page.slug %}
-        </section>
+        <article>
+                {{ content }}
+        </article>
     </div>
-{% include common/footprints.html %}
+    {% include common/footprints.html %}
 </main>
 {% include common/footer.html %}
 </body>

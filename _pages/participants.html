@@ -1,0 +1,22 @@
+---
+title: Schedule
+layout: participants
+permalink: /participants
+---
+
+<h2>Participants</h2>
+<p>Here are some of the confirmed attendees of the events:</p>
+<ul class="trombinoscope clearfix">
+    {% for participant in site.participants %}
+    <li>
+        <a class="clearfix" href="{{ "/participants" | absolute_url }}/{{participant.slug}}">
+        {% include snippets/participant.html slug=participant.slug
+        first_name=participant.first_name last_name=participant.last_name
+        org_position=participant.org_position org_name=participant.org_name
+        %}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+<h3>And many more...</h3>

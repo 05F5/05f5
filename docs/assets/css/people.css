@@ -33,3 +33,50 @@
         max-width: 50%;
     }
 }
+
+main ul.trombinoscope {
+    margin:0 0 2rem 0;
+    padding:0 0 2rem 0;
+}
+.trombinoscope li {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+.trombinoscope li a {
+    min-width: 300px;
+    float:left;
+    border:1px solid #EEE;
+    background:#FFF;
+    border-radius: 1rem;
+    color:#000;
+    width:31%;
+    padding:1.5rem 0 1.5rem 1.5rem;
+    margin:2rem 2rem 0 0;
+    text-overflow: ellipsis ellipsis;
+}
+.trombinoscope li a:hover {
+    border:1px solid #666CF7;
+}
+.trombinoscope .people-badge .people-picture img {
+    width:70px;
+}
+.trombinoscope li a h2 {
+    margin-top:.2rem;
+    padding-bottom:.8rem;
+    font-size: 1.6rem;
+    text-overflow: ellipsis ellipsis;
+}
+.trombinoscope li a h3 {
+    max-width: 225px;
+    font-size: 1.4rem;
+    color: #666CF7;
+    font-weight: normal;
+    text-overflow: ellipsis ellipsis;
+}
+.trombinoscope li a h4 {
+    font-size: 1.4rem;
+    text-overflow: ellipsis ellipsis;
+    padding-bottom:.4rem;
+    margin-bottom:.6rem;
+}
