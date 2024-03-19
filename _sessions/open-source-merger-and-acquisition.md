@@ -2,8 +2,8 @@
 title: Merger and Acquisition
 description: How to be an attractive M&A target for strategic buyers as an open source company.
 people: [thomas-di-giacomo]
-session_start: 2024-05-27 14:00:00 Z
-session_end: 2024-05-27 14:45:00 Z
+session_start: 
+session_end: 
 categories: [workshop]
 layout: sessions
 slug: project-vs-products

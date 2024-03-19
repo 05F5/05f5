@@ -2,8 +2,8 @@
 title: Projects Versus Products Is Key! 
 description: Product management for open source products. Specifics about how product management has to be managed differently in open source companies.
 people: [thomas-di-giacomo]
-session_start: 2024-05-27 11:15:00 Z
-session_end: 2024-05-27 11:35:00 Z
+session_start: 
+session_end: 
 categories: [talk]
 layout: sessions
 slug: project-vs-products

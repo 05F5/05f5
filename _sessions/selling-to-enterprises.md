@@ -2,8 +2,8 @@
 title: Selling to Enterprises
 description: Understanding the sales process changes needed to land enterprise customers
 people: [peter-zaitsev]
-session_start: 2024-05-27 11:40:00 Z
-session_end: 2024-05-27 12:00:00 Z
+session_start: 
+session_end: 
 categories: [talk]
 layout: sessions
 slug: selling-to-enterprises
