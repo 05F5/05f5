@@ -1,0 +1,11 @@
+---
+title: OG Image Test
+layout: participants
+permalink: /og-images-test
+published: false
+---
+
+{% for participant in site.participants %}
+{% if participant.ogimage %}
+<img src="{{ participant.ogimage | absolute_url }}" style="width:120px;"/>{% endif %}
+{% endfor %}
