@@ -1,0 +1,13 @@
+{% assign id = include.id %}
+{% assign found = 0 %}
+{% if id %}
+{% for session in site.sessions %}
+{% if id == session.session_id %}
+<li>
+    <a href="{{ session.permalink | absolute_url }}">{{ session.title }}</a>{% for participant in site.participants %}{% for person in session.people %}{% if participant.slug == person %},
+    {{ participant.title }} ({{participant.org_name }}){% assign found = {{found | plus:1 }}%}{% endif %}{% endfor %}{% endfor %}
+<li>
+{% else %}
+{% endif %}
+{% endfor %}
+{% endif %}

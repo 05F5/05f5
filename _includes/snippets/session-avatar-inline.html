@@ -1,0 +1,19 @@
+{% assign found = 0 %}
+{% assign id = include.id %}
+{% if id %}
+    {% for session in site.sessions %}
+        {% if id == session.session_id %}
+            {% assign found = {{found | plus:1 }}%}
+            {% for participant in site.participants %}
+                {% for person in session.people %}
+                    {% if participant.slug == person %}
+                        {% include snippets/participant-avatar-link.html participant=participant.slug %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+    {% if found == 0 %}
+        <div class="avatar"><img src="../assets/img/participants/tbd.png" alt="To be announced"></div>
+    {% endif %}
+{% endif %}

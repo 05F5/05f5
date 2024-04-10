@@ -1,13 +1,13 @@
 .schedule main article {
     max-width: 110rem;
 }
-.schedule article h3 {
+.schedule h3 {
     border-bottom: .3rem solid var(--color-almost-black);
     text-transform: uppercase;
     margin-bottom: 2rem;
     margin-top: .5rem;
 }
-.schedule article h3 sup {
+.schedule  h3 sup {
     font-size:1rem;
 }
 .schedule .schedule-intro {
@@ -18,7 +18,7 @@
     margin-bottom: 3.2rem;
 }
 .schedule .session {
-    border-bottom: .1rem solid #777;
+    border-bottom: .1rem solid #999;
     padding-bottom: 1rem;
     margin-bottom:2rem;
 }
@@ -45,6 +45,10 @@
     font-size:2rem;
     font-weight: bold;
     padding-bottom:.5rem;
+}
+
+.schedule .session ul {
+    padding-bottom:1.4rem;
 }
 .schedule .session .avatar {
     float:right;

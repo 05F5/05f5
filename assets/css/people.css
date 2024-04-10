@@ -5,11 +5,8 @@
 .people .schedule .session .session-description {
     max-width: 70%;
 }
-.people  .schedule h3 + .session {
-    border-top: 0.3rem solid #000;
-}
 .people  .schedule .session  {
-    padding-top:2rem;
+    padding-top:1rem;
     border-bottom: 0.1rem solid #000;
 }
 .people-profile {
