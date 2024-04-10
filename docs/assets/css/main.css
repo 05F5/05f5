@@ -299,15 +299,15 @@ main blockquote {
 
 
 /** sponsors */
-.footprints .organizers {
-    margin-bottom: 2rem;
+.footprints .container:first-child {
+    margin-bottom: 0;
 }
 .footprints a.logo {
     margin-bottom: 1.5rem;
     width: 22rem;
     height: 7rem;
     background-repeat: no-repeat;
-    background-position: 2rem center;
+    background-position: center center;
     margin-right:2rem;
     float:left;
 }
@@ -331,13 +331,17 @@ main blockquote {
     background-image: url("../img/sponsors/mlm.svg");
     background-size: 56%;
 }
+.footprints a.daytona {
+    background-image: url("../img/sponsors/daytona.svg");
+    background-size: 70%;
+}
+.footprints a.cisco {
+    background-image: url("../img/sponsors/cisco.svg");
+    background-size: 60%;
+}
 .footprints a.cta {
-
 }
 
-.footprints .socials {
-    margin-top: 4rem;
-}
 .footprints .social {
     margin-bottom: 1rem;
     width: 5rem;
