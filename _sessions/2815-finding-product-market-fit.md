@@ -11,5 +11,7 @@ slug: finding-product-market-fit
 permalink: /schedule/finding-product-market-fit
 ---
 
-In this workshop moderated by Lisa Cao, participant will discuss their experience when trying to find
-product-market fit as an open source company.
+Does being an open source company make it easier, harder or just different to find product-market fit? 
+What is the relationship between product-market fit and project-market fit? How does being open source 
+affect product strategy? In this breakout workshop, Lisa Cao will lead a discussion about the trials and 
+wins of getting to product-market fit as an open source company. 
