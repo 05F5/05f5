@@ -253,6 +253,7 @@ main article ul li {
 main article img {
     padding-bottom:1.6rem;
 }
+
 main article p + h2,
 main article p + h3 {
     margin-top:2rem;
@@ -324,8 +325,9 @@ main blockquote {
     background-size: 75%;
 }
 .footprints a.tr {
+    width: 10rem;
     background-image: url("../img/sponsors/tr.png");
-    background-size: 45%;
+    background-size: 100%;
 }
 .footprints a.moonlight-marketing {
     background-image: url("../img/sponsors/mlm.svg");
@@ -339,6 +341,15 @@ main blockquote {
     background-image: url("../img/sponsors/cisco.svg");
     background-size: 60%;
 }
+.footprints a.pearlside {
+    background-image: url("../img/sponsors/pearlside.png");
+    background-size: 80%;
+}
+.footprints a.osi {
+    width: 10rem;
+    background-image: url("../img/sponsors/osi.svg");
+    background-size: 50%;
+}
 .footprints a.cta {
 }
 
@@ -348,10 +359,10 @@ main blockquote {
     height: 5rem;
     background-repeat: no-repeat;
     background-position: center center;
-    margin-right:2rem;
+    margin-right:1rem;
     float:left;
-    border: 3px solid var(--color-deep-purple);
-    border-radius: 1rem;
+    border: 2px solid var(--color-deep-purple);
+    border-radius: 5rem;
 }
 .footprints .socials .icon-linkedin {
     background-image: url("../img/icons/linkedin.svg");
@@ -364,6 +375,17 @@ main blockquote {
 .footprints .socials .icon-email {
     background-image: url("../img/icons/mail.svg");
     background-size: 56%;
+}
+.footprints .socials .icon-twitter {
+    background-image: url("../img/icons/twitter.svg");
+    background-size: 56%;
+}
+.footprints .socials .icon-mastodon {
+    background-image: url("../img/icons/mastodon.svg");
+    background-size: 56%;
+}
+.footprints ul + h2 {
+    margin-top:2rem;
 }
 @media only screen and (min-width: 80rem) {
     main .footprints section {

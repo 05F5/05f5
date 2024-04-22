@@ -1,15 +1,4 @@
-<!-- @license lucide-static v0.331.0 - ISC -->
-<svg
-        class="lucide lucide-twitter"
-        xmlns="http://www.w3.org/2000/svg"
-        width="24"
-        height="24"
-        viewBox="0 0 24 24"
-        fill="#666CF7"
-        stroke="none"
-        stroke-width="0"
-        stroke-linecap="round"
-        stroke-linejoin="round"
->
-    <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
+<!-- https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300.251" version="1.1">
+    <path fill="#666CF7" d="M178.57 127.15 290.27 0h-26.46l-97.03 110.38L89.34 0H0l117.13 166.93L0 300.25h26.46l102.4-116.59 81.8 116.59h89.34M36.01 19.54H76.66l187.13 262.13h-40.66"/>
 </svg>
