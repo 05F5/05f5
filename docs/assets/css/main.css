@@ -133,11 +133,22 @@ nav a {
     text-decoration: none;
     float:right;
     margin-right:3rem;
-    padding:.5rem;
+    padding:.4rem 1rem;
 }
 nav a:hover {
      color: white;
      text-decoration: underline;
+}
+header a.minicta {
+    padding:.4rem 1rem;
+    color:white;
+    background: var(--color-deep-purple);
+    border-radius: 30rem;
+}
+header a.minicta:hover {
+    text-decoration: none;
+    background:white;
+    color: black;
 }
 nav a.logo {
     float:left;
