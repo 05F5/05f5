@@ -11,6 +11,4 @@ slug: donating-a-project-to-a-foundation
 permalink: /schedule/donating-a-project-to-a-foundation
 ---
 
-In this workshop moderated by Gaël Blondelle from the Eclipse Foundation, explore the benefits and drawbacks of 
-donating your project to a foundation. Gain insights into the potential advantages like increased visibility and 
-community support, as well as discuss potential concerns such as loss of control.
+In this workshop moderated by Gaël Blondelle from the Eclipse Foundation, explore the benefits and drawbacks of hosting your Open Source project at a foundation. Gain insights into the potential advantages beyond increased visibility and community support, as well as discuss potential concerns such as the risk of losing control or the requirement to comply with governance rules. It's the right place to set apart the facts and myths, to uncover the untapped potential and intricate nuances of bringing your project under the umbrella of an open source foundation.
