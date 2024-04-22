@@ -33,4 +33,4 @@ from community building to sales to revenue building to acquisitions.
 
 **Networking Breaks:** Social events to provide plenty of time & space for one-on-one conversations.
 
-{% include common/cta.html url="/request-invite" name="Request and invite" %} &nbsp; [Sponsor the event](/sponsor)
+{% include common/cta.html url="/request-invite" name="Request an invite" %} &nbsp; [Sponsor the event](/sponsor)
