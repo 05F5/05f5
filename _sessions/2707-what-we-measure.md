@@ -11,5 +11,4 @@ slug: what-we-measure
 permalink: /schedule/what-we-measure
 ---
 
-In this lightning talk Kevin Muller will provide a rapid examination of Passbolt's key performance indicators 
-(KPIs), shedding light on the metrics crucial for the company's growth and success.
+There are plenty of resources out there about the KPIs startups should track in general, but how do key KPIs differ for open source companies? In this talk, Kevin Muller will talk about the key KPIs he tracks at Passbolt and why he thinks each one is important for an open source company.
