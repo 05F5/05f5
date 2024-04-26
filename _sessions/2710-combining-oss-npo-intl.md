@@ -1,5 +1,6 @@
 ---
 title: Gaining International Credibility through Open Source
+dscription: How MobilityData uses open source to build international credibility
 people: [elisabeth-poirier-defoy]
 session_id: 2710
 session_start: 2024-05-27 12:25:00 Z
