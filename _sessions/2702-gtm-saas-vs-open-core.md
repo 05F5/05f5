@@ -3,8 +3,8 @@ title: GTM for SaaS vs Open Core
 description: Understanding the different go to market motions for software as a service versus Open Core.
 people: [pierre-burgy]
 session_id: 2702
-session_start: 2024-05-27 11:40:00 Z
-session_end: 2024-05-27 12:00:00 Z
+session_start: 2024-05-27 10:00:00 Z
+session_end: 2024-05-27 10:20:00 Z
 categories: [talk]
 layout: sessions
 slug: gtm-saas-vs-open-core

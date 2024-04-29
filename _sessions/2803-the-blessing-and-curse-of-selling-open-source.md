@@ -3,7 +3,7 @@ title: The Blessing and Curse of Selling Open Source
 description: Sales is the lifeblood of any startup, but what makes a good open source sales strategy?
 people: [matt-barker]
 session_id: 2803
-session_start: 2024-05-28 10:20:00 Z
+session_start: 2024-05-28 10:25:00 Z
 session_end: 2024-05-28 10:45:00 Z
 categories: [talk]
 layout: sessions
