@@ -526,3 +526,9 @@ footer nav a.logo {
         display:none;
     }
 }
+
+iframe {
+    float:left;
+    border:0;
+    padding-right:2rem;
+}
