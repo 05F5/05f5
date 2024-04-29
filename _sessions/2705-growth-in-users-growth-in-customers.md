@@ -2,9 +2,9 @@
 title: Growth in users, growth in customers
 description: User and customers growth, different strategies for both?
 people: [michael-widenius]
-session_id: 2802
-session_start: 2024-05-28 10:00:00 Z
-session_end: 2024-05-28 10:20:00 Z
+session_id: 2705
+session_start: 2024-05-27 11:40:00 Z
+session_end: 2024-05-27 12:00:00 Z
 categories: [talk]
 layout: sessions
 slug: user-growth-customer-growth

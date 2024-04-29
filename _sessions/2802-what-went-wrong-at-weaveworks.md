@@ -2,9 +2,9 @@
 title: What Went Wrong at Weaveworks?
 description: The CEO and founder of Weaveworks as well as of RabbitMQ takes a hard look at what went wrong at Weaveworks.
 people: [alexis-richardson]
-session_id: 2705
-session_start: 2024-05-27 11:40:00 Z
-session_end: 2024-05-27 12:00:00 Z
+session_id: 2802
+session_start: 2024-05-28 10:00:00 Z
+session_end: 2024-05-28 10:20:00 Z
 categories: [talk]
 layout: sessions
 slug: what-went-wrong-at-weaveworks
