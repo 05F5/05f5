@@ -328,8 +328,9 @@ main blockquote {
     background-size: 75%;
 }
 .footprints a.ef {
+    width: 20rem;
     background-image: url("../img/sponsors/ef.png");
-    background-size: 60%;
+    background-size: 65%;
 }
 .footprints a.passbolt {
     background-image: url("../img/sponsors/passbolt.png");
@@ -341,8 +342,9 @@ main blockquote {
     background-size: 100%;
 }
 .footprints a.moonlight-marketing {
-    background-image: url("../img/sponsors/mlm.svg");
-    background-size: 56%;
+    width: 25rem;
+    background-image: url("../img/sponsors/mm.png");
+    background-size: 100%;
 }
 .footprints a.daytona {
     background-image: url("../img/sponsors/daytona.svg");
@@ -360,6 +362,10 @@ main blockquote {
     width: 10rem;
     background-image: url("../img/sponsors/osi.svg");
     background-size: 50%;
+}
+.footprints a.openuk {
+    background-image: url("../img/sponsors/openuk.png");
+    background-size: 75%;
 }
 .footprints a.cta {
 }
