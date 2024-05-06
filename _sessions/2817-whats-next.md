@@ -2,7 +2,7 @@
 title: What's next for the Open Source Founders Summit?
 description: Let's plan together what is next for the Open Source Founders Summit community.
 people: [remy-bertot, emily-omier]
-session_id: 2816
+session_id: 2817
 session_start: 2024-05-27 16:05:00 Z
 session_end: 2024-05-27 16:50:00 Z
 categories: [workshop]

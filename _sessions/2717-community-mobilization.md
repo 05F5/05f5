@@ -2,7 +2,7 @@
 title: How to mobilize a community around an OSS solution
 description: How to engage the open source community while seeking contributors for innovative content.
 people: [aad-nales]
-session_id: 2715
+session_id: 2717
 session_start: 2024-05-27 16:05:00 Z
 session_end: 2024-05-27 16:50:00 Z
 categories: [workshop]

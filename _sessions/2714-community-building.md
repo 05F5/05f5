@@ -2,7 +2,7 @@
 title: Building a thriving open-source community
 description: Join us to learn building & sustaining contributor communities efficiently. Hear Zulip's approach & share insights!
 people: [alya-abbott]
-session_id: 2713
+session_id: 2714
 session_start: 2024-05-27 14:50:00 Z
 session_end: 2024-05-27 15:35:00 Z
 categories: [workshop]

@@ -2,7 +2,7 @@
 title: Succession Planning
 description: Ensure your FOSS business thrives beyond you. Join our workshop to discuss succession planning and securing its future.
 people: [k-s-bhaskar]
-session_id: 2716
+session_id: 2718
 session_start: 2024-05-27 16:05:00 Z
 session_end: 2024-05-27 16:50:00 Z
 categories: [workshop]
