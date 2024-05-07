@@ -11,5 +11,4 @@ slug: hard-truth
 permalink: /schedule/hard-truth
 ---
 
-In this workshop moderated by Geoff Olliff's we will explore together the harsh realities faced by 
-open source businesses.
+Do you spend more time in seat 37a than at home? Do you secretly feel like the public conversation about open source businesses is at best naive, at worst intentionally misleading? This is your chance to other founders in a workshop moderated by Geoff Olliff. 
