@@ -11,5 +11,4 @@ slug: from-zero-to-infinity
 permalink: /schedule/from-zero-to-infinity
 ---
 
-In this lightning talk David will present the benefits of jumpstarting both product development and community when
-starting a new project.
+In this lightning talk David will talk about how to create a virtuous cycle between project/product development and community growth, from his experience in the early days of Kubernetes and his experience at Expanso now. 
