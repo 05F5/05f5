@@ -2,9 +2,9 @@
 title: Why Did Hashicorp Change Its License?
 description: Is this the end of single vendor OSS?
 people: [amanda-brock]
-session_id: 2716
-session_start: 2024-05-27 14:50:00 Z
-session_end: 2024-05-27 15:35:00 Z
+session_id: 2814
+session_start: 2024-05-28 14:50:00 Z
+session_end: 2024-05-28 15:35:00 Z
 categories: [workshop]
 layout: sessions
 slug: why-did-hashicorp-change-its-license
