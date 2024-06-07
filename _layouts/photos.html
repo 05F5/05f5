@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+    {% include common/head.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/photos.css" | absolute_url }}">
+</head>
+<body class="default">
+{% include common/header.html %}
+<main>
+    {{ content }}
+    {% include common/footprints.html %}
+</main>
+{% include common/footer.html %}
+</body>
+</html>
