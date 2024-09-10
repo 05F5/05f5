@@ -154,8 +154,8 @@ nav a.logo {
     float:left;
     width: 3rem;
     height: 3rem;
-    background: no-repeat center/75% url("../img/logo/logo_s_white.svg");
-    margin-top:-.2rem;
+    background: no-repeat center/100% url("../img/logo/logo_square_whitetxt_purplebg.svg");
+    margin-top: 0;
     margin-left: -.5rem;
 }
 .round {
@@ -416,10 +416,9 @@ footer {
 }
 footer nav a.logo {
     float:left;
-    width: 30rem;
-    height: 4.5rem;
-    background: no-repeat center/60% url("../img/logo/logo_white.svg");
-    margin-left:-5rem;
+    width: 3rem;
+    height: 3rem;
+    background: no-repeat center/100% url("../img/logo/logo_square_whitetxt_purplebg.svg");
     margin-bottom: 1rem;
     margin-top:-.5rem;
 }

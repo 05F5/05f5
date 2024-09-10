@@ -8,7 +8,7 @@
         {% if participant == speaker %}
             {% assign found = {{found | plus:1 }}%}
             {% if found == 1 %}
-                <h2>Schedule</h2>
+                <h2>Previous Edition Schedule</h2>
             {% endif %}
             {% assign day = {{session.session_start | date: "%d" }} %}
             {% if day == "27" %}
