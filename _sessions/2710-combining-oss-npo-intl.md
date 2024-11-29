@@ -5,6 +5,7 @@ people: [elisabeth-poirier-defoy]
 session_id: 2710
 session_start: 2024-05-27 12:25:00 Z
 session_end: 2024-05-27 12:30:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: combining-oss-npo-intl

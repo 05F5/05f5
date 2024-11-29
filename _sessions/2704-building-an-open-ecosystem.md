@@ -5,6 +5,7 @@ people: [amandine-le-pape]
 session_id: 2704
 session_start: 2024-05-27 11:15:00 Z
 session_end: 2024-05-27 11:35:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: building-an-open-ecosystem

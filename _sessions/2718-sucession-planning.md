@@ -5,6 +5,7 @@ people: [k-s-bhaskar]
 session_id: 2718
 session_start: 2024-05-27 16:05:00 Z
 session_end: 2024-05-27 16:50:00 Z
+editions: [2024]
 categories: [workshop]
 layout: sessions
 slug: succession-planning

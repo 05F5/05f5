@@ -5,6 +5,7 @@ people: [garima-kapoor]
 session_id: 2805
 session_start: 2024-05-28 11:40:00 Z
 session_end: 2024-05-28 12:00:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: translating-adoption-into-commercial-success

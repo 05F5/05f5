@@ -5,6 +5,7 @@ people: [aad-nales]
 session_id: 2717
 session_start: 2024-05-27 16:05:00 Z
 session_end: 2024-05-27 16:50:00 Z
+editions: [2024]
 categories: [workshop]
 layout: sessions
 slug: community-mobilization

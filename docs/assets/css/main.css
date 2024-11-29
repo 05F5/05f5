@@ -323,6 +323,9 @@ main blockquote {
     margin-right:2rem;
     float:left;
 }
+.footprints a.cta {
+    margin-top:.75em;
+}
 .footprints a.eoc {
     background-image: url("../img/sponsors/eoc.png");
     background-size: 75%;

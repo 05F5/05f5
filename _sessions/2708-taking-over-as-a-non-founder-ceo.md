@@ -5,6 +5,7 @@ people: [alexandre-brianceau]
 session_id: 2708
 session_start: 2024-05-27 12:15:00 Z
 session_end: 2024-05-27 12:20:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: taking-over-as-a-non-founder-ceo

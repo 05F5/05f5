@@ -5,6 +5,7 @@ people: [greg-austic]
 session_id: 2811
 session_start: 2024-05-28 14:00:00 Z
 session_end: 2024-05-28 14:45:00 Z
+editions: [2024]
 categories: [workshop]
 layout: sessions
 slug: collaborating-across-projects

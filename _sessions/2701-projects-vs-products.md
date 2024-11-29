@@ -5,6 +5,7 @@ people: [thomas-di-giacomo]
 session_id: 2701
 session_start: 2024-05-27 09:35:00 Z
 session_end: 2024-05-27 09:55:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: project-vs-products

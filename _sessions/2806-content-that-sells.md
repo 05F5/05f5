@@ -5,6 +5,7 @@ people: [olga-rusakova]
 session_id: 2806
 session_start: 2024-05-28 12:05:00 Z
 session_end: 2024-05-28 12:10:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: content-that-sells

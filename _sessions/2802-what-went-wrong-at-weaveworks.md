@@ -5,6 +5,7 @@ people: [alexis-richardson]
 session_id: 2802
 session_start: 2024-05-28 10:00:00 Z
 session_end: 2024-05-28 10:20:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: what-went-wrong-at-weaveworks

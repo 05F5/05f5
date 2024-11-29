@@ -5,6 +5,7 @@ people: [peter-zaitsev]
 session_id: 2804
 session_start: 2024-05-28 11:15:00 Z
 session_end: 2024-05-28 11:35:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: selling-to-enterprises

@@ -5,6 +5,7 @@ people: [eyal-bukchin]
 session_id: 2810
 session_start: 2024-05-28 12:25:00 Z
 session_end: 2024-05-28 12:30:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: open-source-mvps

@@ -6,6 +6,7 @@ org_position:
 org_name:
 podcast:
 slug:
+editions: [2025]
 categories: [speaker, participant, organizer, moderator, sponsor]
 layout: participant
 published: false

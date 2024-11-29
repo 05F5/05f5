@@ -5,6 +5,7 @@ people: [matt-barker]
 session_id: 2803
 session_start: 2024-05-28 10:25:00 Z
 session_end: 2024-05-28 10:45:00 Z
+editions: [2024]
 categories: [talk]
 layout: sessions
 slug: the-blessing-and-curse-of-selling-open-source
