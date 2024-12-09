@@ -4,14 +4,23 @@ layout: default
 permalink: /about
 ---
 
-# About
-### Why this event?
+### Does the world really need another open source event? 
 
-Open source companies face challenges and opportunities that proprietary software companies never encounter. 
+Open Source Founders Summit is a business conference, not a tech conference. Open source companies face challenges and opportunities that proprietary software companies never encounter. 
 General startup programs, investors and your own employees often won’t understand how to navigate these 
-challenges or take advantage of the opportunities unless they have open source experience. The open source 
-founders summit gives founders a place to learn from each other and support each other in building open source 
+challenges or take advantage of the opportunities unless they have open source experience. Open Source Founders Summit gives founders a place to learn from each other and support each other in building open source 
 companies.
+
+### What people said about OSFS 2024: 
+
+“Thank you for organising this great event! Looking forward to the next year's already!”
+	– Michael Widenius, founder of MySQL and MariaDB
+
+ “For any current or future OSS founders in my network, if a very dense concentration of pertinent and actionable content delivered by smart and sincere speakers sounds like your cup of tea, keep an eye on their socials for next year’s dates.”
+	– Eyal Bukchin, CTO and co-founder, MetalBear
+
+ “Loved every moment of it. Thanks for taking the bet of building such a needed event. Looking forward for the second year!”
+– Elisabeth Poirier-Defoy, deputy executive director, MobilityData
 
 ### What is different about OSFS?
 
