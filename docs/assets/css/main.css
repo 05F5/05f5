@@ -344,22 +344,9 @@ main blockquote {
     background-image: url("../img/sponsors/tr.png");
     background-size: 100%;
 }
-.footprints a.moonlight-marketing {
-    width: 25rem;
-    background-image: url("../img/sponsors/mm.png");
-    background-size: 100%;
-}
-.footprints a.daytona {
-    background-image: url("../img/sponsors/daytona.svg");
-    background-size: 70%;
-}
-.footprints a.cisco {
-    background-image: url("../img/sponsors/cisco.svg");
+.footprints a.yottadb {
+    background-image: url("../img/sponsors/yottadb.svg");
     background-size: 60%;
-}
-.footprints a.pearlside {
-    background-image: url("../img/sponsors/pearlside.png");
-    background-size: 80%;
 }
 .footprints a.osi {
     width: 10rem;
