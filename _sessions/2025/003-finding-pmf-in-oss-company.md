@@ -1,8 +1,8 @@
 ---
-title: Finding Product-Market Fit in a Community-Driven Open Source Company
-description: Discover how to forge powerful synergies with your community to build a sustainable OSS business
+title: Finding PMF in a Community-Driven OSS Company
+description: Discover how to forge powerful synergies with your community to build a sustainable OSS business.
 people: [frank-karlitschek]
-session_id: 25001
+session_id: 25002
 session_start: 2025-05-19 09:40:00 Z
 session_end: 2025-05-19 10:00:00 Z
 editions: [2025]

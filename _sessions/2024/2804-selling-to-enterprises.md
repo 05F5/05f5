@@ -1,6 +1,6 @@
 ---
 title: Selling to Enterprises
-description: Understanding the sales process changes needed to land enterprise customers
+description: Understanding the sales process changes needed to land enterprise customers.
 people: [peter-zaitsev]
 session_id: 2804
 session_start: 2024-05-28 11:15:00 Z

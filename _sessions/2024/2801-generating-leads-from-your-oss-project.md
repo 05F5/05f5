@@ -1,6 +1,6 @@
 ---
 title: Generating and Converting Leads from OSS Project
-description: How to generate leads from your open source project, and turn those leads into customers
+description: How to generate leads from your open source project, and turn those leads into customers.
 people: [frank-karlitschek]
 session_id: 2801
 session_start: 2024-05-28 09:35:00 Z

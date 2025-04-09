@@ -1,6 +1,6 @@
 ---
 title: Staying true to OSS principles
-description: Managing business needs while staying true to Open Source principles
+description: Managing business needs while staying true to Open Source principles.
 people: [ludovic-dubost, vincent-untz]
 session_id: 2712
 session_start: 2024-05-27 14:00:00 Z

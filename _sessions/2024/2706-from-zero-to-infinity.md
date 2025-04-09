@@ -1,6 +1,6 @@
 ---
 title: From Zero to Infinity
-description: The virtuous cycle of jumpstarting development and community
+description: The virtuous cycle of jumpstarting development and community.
 people: [david-aronchick]
 session_id: 2706
 session_start: 2024-05-27 12:05:00 Z

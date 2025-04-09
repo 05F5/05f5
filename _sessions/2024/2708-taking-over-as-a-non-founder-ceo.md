@@ -1,6 +1,6 @@
 ---
 title: Taking over as a non-founder CEO
-description: Reflections on Rudder leadership journey
+description: Reflections on Rudder leadership journey.
 people: [alexandre-brianceau]
 session_id: 2708
 session_start: 2024-05-27 12:15:00 Z

@@ -1,6 +1,6 @@
 ---
 title: Content that sells from engineers who write
-description: A perfect combo - content that sells from engineers who write
+description: A perfect combo - content that sells from engineers who write.
 people: [olga-rusakova]
 session_id: 2806
 session_start: 2024-05-28 12:05:00 Z

@@ -1,10 +1,10 @@
 ---
 title: Writing an Open Source Manifesto to Align Collaborators
-description: Learn how an Open Source Manifesto can unify teams and sharpen your open-source strategy
+description: Learn how an Open Source Manifesto can unify teams and sharpen your open-source strategy.
 people: [vincent-untz]
 session_id: 25014
-session_start: 2025-05-19 14:05:00 Z
-session_end: 2025-05-19 14:10:00 Z
+session_start: 2025-05-19 14:35:00 Z
+session_end: 2025-05-19 14:40:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions

@@ -1,6 +1,6 @@
 ---
 title: Translating Widespread Adoption Into Commercial Success
-description: Insights on how to convert adoption into revenue
+description: Insights on how to convert adoption into revenue.
 people: [garima-kapoor]
 session_id: 2805
 session_start: 2024-05-28 11:40:00 Z

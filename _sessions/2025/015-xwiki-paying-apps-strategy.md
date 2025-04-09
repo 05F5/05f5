@@ -2,9 +2,9 @@
 title: XWiki’s Paying Apps Strategy
 description: Ludovic reveal the model behind the XWiki’s app store and why it’s no open core.
 people: [ludovic-dubost]
-session_id: 25014
-session_start: 2025-05-19 14:10:00 Z
-session_end: 2025-05-19 14:15:00 Z
+session_id: 25015
+session_start: 2025-05-19 14:45:00 Z
+session_end: 2025-05-19 14:50:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions

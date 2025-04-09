@@ -1,6 +1,6 @@
 ---
 title: Building an open ecosystem
-description: The paradox of supporting your own competitors
+description: The paradox of supporting your own competitors.
 people: [amandine-le-pape]
 session_id: 2704
 session_start: 2024-05-27 11:15:00 Z

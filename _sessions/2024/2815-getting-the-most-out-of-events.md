@@ -1,6 +1,6 @@
 ---
 title: Getting the most out of events
-description: Getting the most out of events as an open source software company  
+description: Getting the most out of events as an open source software company.  
 people: [sara-davila, brian-proffitt]
 session_id: 2815
 session_start: 2024-05-28 14:50:00 Z

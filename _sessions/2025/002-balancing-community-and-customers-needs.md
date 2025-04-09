@@ -2,7 +2,7 @@
 title: Balancing your community’s and customer’s needs
 description: Learn how to balance the varied needs of your open source community and paying customers, even when their demands collide.
 people: [ann-schlemmer]
-session_id: 25002
+session_id: 25003
 session_start: 2025-05-19 10:05:00 Z
 session_end: 2025-05-19 10:25:00 Z
 editions: [2025]

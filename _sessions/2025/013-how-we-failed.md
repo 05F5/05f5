@@ -3,8 +3,8 @@ title: How We Failed (Multiple Times) to Find a Business Model
 description: Every open-source founder knows the struggle, great adoption does not always mean great revenue.
 people: [paul-henri-pillet]
 session_id: 25013
-session_start: 2025-05-19 14:00:00 Z
-session_end: 2025-05-19 14:05:00 Z
+session_start: 2025-05-19 14:30:00 Z
+session_end: 2025-05-19 14:35:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions

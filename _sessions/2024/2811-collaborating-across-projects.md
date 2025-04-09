@@ -1,6 +1,6 @@
 ---
 title: Collaborating across open source software projects
-description: Exploring collaborative pricing models for open source projects serving shared value chains
+description: Exploring collaborative pricing models for open source projects serving shared value chains.
 people: [greg-austic]
 session_id: 2811
 session_start: 2024-05-28 14:00:00 Z

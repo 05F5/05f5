@@ -1,6 +1,6 @@
 ---
 title: Selling to Governments
-description: Selling to the government as an open source company
+description: Selling to the government as an open source company.
 people: [marc-laporte]
 session_id: 2716
 session_start: 2024-05-27 14:50:00 Z

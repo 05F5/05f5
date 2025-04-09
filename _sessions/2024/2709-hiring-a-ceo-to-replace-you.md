@@ -1,6 +1,6 @@
 ---
 title: Hiring a CEO to replace you
-description: Hiring a CEO to Succeed, Peter's Zaitsev Insights
+description: Hiring a CEO to Succeed, Peter's Zaitsev Insights.
 people: [peter-zaitsev]
 session_id: 2709
 session_start: 2024-05-27 12:20:00 Z
