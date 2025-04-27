@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+{% include common/head.html %}
+    <link rel="stylesheet" href="{{ "/assets/css/schedule.css" | absolute_url }}">
+</head>
+<body class="about">
+{% include common/header.html %}
+<main>
+    <div class="container clearfix">
+        <article>
+            <section class="schedule-content">
+                <h2>{{page.categories.first | capitalize }}</h2>
+                <h1>{{ page.title }}</h1>
+                <h3>Both Days</h3>
+                {{ content }}
+                <a class="cta sponsor" href="{{"/schedule" | absolute_url }}">Browse schedule</a>
+            </section>
+            <section class="schedule-people">
+                {% assign type = page.categories.first | capitalize %}
+                <h2>Moderator info</h2>
+                <div class="people-badge clearfix">
+                    <div class="people-picture">
+                        <div class="avatar"><img src="../../assets/img/participants/you.png" alt="You"></div>
+                    </div>
+                    <div class="people-info">
+                        <h2>You and others</h2>
+                        <h3>Founders</h3>
+                        <h4>Open Source Business</h4>
+                    </div>
+                </div>
+            </section>
+        </article>
+    </div>
+{% include common/footprints.html %}
+</main>
+{% include common/footer.html %}
+</body>
+</html>
