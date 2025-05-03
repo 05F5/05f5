@@ -1,11 +1,7 @@
-{% for speaker in page.people %}
-    {% for participant in site.participants %}
-        {% if participant.slug == speaker %}
+{% for speaker in page.people %}{% for participant in site.participants %}{% if participant.slug == speaker %}
 {% include snippets/participant.html slug=participant.slug
     first_name=participant.first_name last_name=participant.last_name
     org_position=participant.org_position org_name=participant.org_name
 %}
 <a class="cta" href="{{ "/participants" | absolute_url }}/{{ participant.slug }}">More about {{ participant.first_name }}</a>
-        {% endif %}
-    {% endfor %}
-{% endfor %}
+{% endif %}{% endfor %}{% endfor %}
