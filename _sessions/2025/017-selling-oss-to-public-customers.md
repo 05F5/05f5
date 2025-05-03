@@ -13,5 +13,5 @@ permalink: /schedule/2025/selling-oss-to-public-customers
 published: true
 ---
 
-The presentation will give a brief summary of the procurement of OSS in public institutions and show 
-which differences to non-public customers can be a challenge for selling OSS.
+The presentation will give a brief summary of the procurement of OSS in public institutions and show which 
+differences to non-public customers can be a challenge for selling OSS.

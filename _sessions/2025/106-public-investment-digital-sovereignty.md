@@ -1,7 +1,7 @@
 ---
 title: Taking Advantage of Public Investments
 description: Learn how open source businesses can tap into government initiatives supporting digital independence.
-people: [raphael-hertzog]
+people: [astor-nummelin-carlberg]
 session_id: 25106
 session_start: 2025-05-20 11:00:00 Z
 session_end: 2025-05-20 11:55:00 Z 

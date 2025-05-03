@@ -3,8 +3,9 @@ title: About
 layout: default
 permalink: /about
 ---
+# About the summit
 
-### Does the world really need another open source event? 
+## Does the world really need another open source event? 
 
 Open Source Founders Summit is a business conference, not a tech conference. Open source companies face challenges and opportunities that proprietary software companies never encounter. 
 General startup programs, investors and your own employees often won’t understand how to navigate these 
