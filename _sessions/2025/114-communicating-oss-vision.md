@@ -3,8 +3,8 @@ title: Talking About Your Project When You Have a Massive Vision
 description: Learn practical techniques to communicate your open source project's big vision without losing clarity.
 people: [david-aronchick]
 session_id: 25114
-session_start: 2025-05-20 14:30:00 Z
-session_end: 2025-05-20 14:35:00 Z
+session_start: 2025-05-20 14:35:00 Z
+session_end: 2025-05-20 14:40:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions
