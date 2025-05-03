@@ -12,5 +12,5 @@ slug: hiring-and-onboarding
 permalink: /schedule/2025/matt-growth-framework
 ---
 
-Will Matt Baker’s Growth Framework™ become the go-to toolkit for scaling teams?
+Will Matt Barker’s Growth Framework™ become the go-to toolkit for scaling teams?
 Jetstack used it. Venafi swears by it. You're next.

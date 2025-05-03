@@ -2,7 +2,7 @@
 title: Growing sales when you're a technical team
 description: Beyond dev circles, enabling sales without selling out.
 people: [raphael-hertzog]
-session_id: 25018
+session_id: 25019
 session_start: 2025-05-19 15:30:00 Z
 session_end: 2025-05-19 16:30:00 Z
 editions: [2025]
