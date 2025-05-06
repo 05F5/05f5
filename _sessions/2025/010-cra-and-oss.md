@@ -2,9 +2,9 @@
 title: The ramifications of the Cyber Resilience Act
 description: Understand how the new European regulation affects open source development, distribution, and compliance.
 people: [jordan-maris]
-session_id: 25105
-session_start: 2025-05-20 11:00:00 Z
-session_end: 2025-05-20 11:55:00 Z 
+session_id: 25010
+session_start: 2025-05-19 12:05:00 Z
+session_end: 2025-05-19 13:00:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

@@ -2,9 +2,9 @@
 title: Engineering IRL Meetups for OSS Growth
 description: How to be an attractive M&A target for strategic buyers as an open source company.
 people: [lisa-cao]
-session_id: 25004
-session_start: 2025-05-19 11:00:00 Z
-session_end: 2025-05-19 11:55:00 Z 
+session_id: 25104
+session_start: 2025-05-20 11:00:00 Z
+session_end: 2025-05-20 11:55:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

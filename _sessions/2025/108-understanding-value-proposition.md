@@ -2,9 +2,9 @@
 title: Understanding value propositions in an open source context
 description: Explore why customer value matters and how it informs positioning, messaging, tone of voice, and more
 people: [sandro-groganz]
-session_id: 25104
-session_start: 2025-05-20 11:00:00 Z
-session_end: 2025-05-20 11:55:00 Z 
+session_id: 25108
+session_start: 2025-05-20 12:05:00 Z
+session_end: 2025-05-20 13:00:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

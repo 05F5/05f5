@@ -2,9 +2,9 @@
 title: Why Large Organizations Might Be Your Best First Customers
 description: How open-source startups can successfully engage large enterprises.
 people: [paul-henri-pillet]
-session_id: 25005
-session_start: 2025-05-19 11:00:00 Z
-session_end: 2025-05-19 11:55:00 Z 
+session_id: 25008
+session_start: 2025-05-19 12:05:00 Z
+session_end: 2025-05-19 13:00:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

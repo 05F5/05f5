@@ -2,7 +2,7 @@
 title: Working alongside a vendor neutral non-profit
 description: A workshop exploring the pros, cons, and structures of setting up charitable foundations.
 people: [michael-meeks]
-session_id: 25008
+session_id: 25009
 session_start: 2025-05-19 12:05:00 Z
 session_end: 2025-05-19 13:00:00 Z 
 editions: [2025]

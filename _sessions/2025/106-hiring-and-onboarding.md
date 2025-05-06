@@ -2,9 +2,9 @@
 title: Onboarding Open Source Newcomers
 description: Hiring and onboarding team members who have never worked in open source companies.
 people: [ann-schlemmer]
-session_id: 25109
+session_id: 25106
 session_start: 2025-05-20 11:00:00 Z
-session_end: 2025-05-20 11:55:00 Z 
+session_end: 2025-05-20 11:55:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

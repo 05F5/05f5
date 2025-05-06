@@ -2,9 +2,9 @@
 title: Working effectively with community contributors
 description: Drowning in pull requests? Learn how Zulip scaled a thriving contributor community.
 people: [alya-abbott]
-session_id: 25008
-session_start: 2025-05-19 12:05:00 Z
-session_end: 2025-05-19 13:00:00 Z 
+session_id: 25109
+session_start: 2025-05-20 11:00:00 Z
+session_end: 2025-05-20 11:55:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

@@ -2,9 +2,9 @@
 title: Founders Therapy
 description: Come along to connect, unload, and leave feeling heard, understood, and a little more hopeful.
 people: [kevin-muller]
-session_id: 25008
-session_start: 2025-05-19 12:05:00 Z
-session_end: 2025-05-19 13:00:00 Z 
+session_id: 25110
+session_start: 2025-05-20 11:00:00 Z
+session_end: 2025-05-20 11:55:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

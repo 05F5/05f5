@@ -2,9 +2,9 @@
 title: Open Source and the European Union Legislation
 description: Understand how recent EU regulations impact open source and how businesses can organize to respond.
 people: [sebastian-raible]
-session_id: 25108
-session_start: 2025-05-20 12:05:00 Z
-session_end: 2025-05-20 13:00:00 Z 
+session_id: 25020
+session_start: 2025-05-19 15:30:00 Z
+session_end: 2025-05-19 16:30:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions
