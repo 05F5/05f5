@@ -2,9 +2,9 @@
 title: Finding focus when you're pulled in 10 different directions
 description: How we found focus amid competing demands and evolving markets.
 people: [amandine-le-pape]
-session_id: 25102
-session_start: 2025-05-20 10:05:00 Z
-session_end: 2025-05-20 10:25:00 Z
+session_id: 25112
+session_start: 2025-05-20 14:00:00 Z
+session_end: 2025-05-20 14:20:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions

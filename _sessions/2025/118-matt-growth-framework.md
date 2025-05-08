@@ -12,5 +12,14 @@ slug: matt-growth-framework
 permalink: /schedule/2025/matt-growth-framework
 ---
 
-Will Matt Barker’s Growth Framework™ become the go-to toolkit for scaling teams?
-Jetstack used it. Venafi swears by it. You're next.
+This will be a hands on workshop and requires participation from attendees.
+Matt will use some of the questioning he uses to help uncover some of the foundational pieces 
+needed to build a growth framework.
+
+Founders will learn more about some of the gaps they are missing, and how to think about filling them.
+We will focus on:
+- Vision and Mission
+- Elevator pitch
+- Hypothetical Inbound
+
+This is a very short session, so we will cover as much of this as time allows.

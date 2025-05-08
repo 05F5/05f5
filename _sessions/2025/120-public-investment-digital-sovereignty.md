@@ -1,6 +1,6 @@
 ---
-title: Taking Advantage of Public Investments
-description: Learn how open source businesses can tap into government initiatives supporting digital independence.
+title: How to tap into government initiatives supporting digital independence
+description: How open source companies in Europe can profit from the push for digital sovereignty
 people: [astor-nummelin-carlberg]
 session_id: 25120
 session_start: 2025-05-20 15:30:00 Z

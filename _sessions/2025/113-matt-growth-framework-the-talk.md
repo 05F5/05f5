@@ -1,6 +1,6 @@
 ---
-title: Matt's Growth Framework, The Talk
-description: The workshop was standing room only. You asked for more.
+title: Building a Growth Framework for your Startup
+description: Matt's Growth Framework, The Talk
 people: [matt-barker]
 session_id: 25113
 session_start: 2025-05-20 14:30:00 Z
@@ -13,7 +13,8 @@ permalink: /schedule/2025/matt-growth-framework-the-talk
 published: true
 ---
 
-You missed the most anticipated workshop on the framework everyone's talking about?
+Matt is a bootstrapped and exited founder who started his career in direct sales. 
+In the process of advising a number of open source startups, he has distilled his knowledge into a 
+structured framework that acts as a guide for the companies he works with. 
 
-Don't worry, Matt’s back, this time with five minutes and one microphone, to distill the REAL essence of 
-Matt's Growth Framework™ into something you can quote at your next board meeting.
+Learn about what is in the framework, and how he will use it as part of his breakout workshop.
