@@ -2,9 +2,9 @@
 title: GTM for open source companies
 description: How does your open source project fit into your go to market strategy?
 people: [rod-johnson]
-session_id: 25102
-session_start: 2025-05-20 10:05:00 Z
-session_end: 2025-05-20 10:25:00 Z
+session_id: 25012
+session_start: 2025-05-19 14:00:00 Z
+session_end: 2025-05-19 14:20:00 Z
 editions: [2025]
 categories: [workshop]
 layout: sessions

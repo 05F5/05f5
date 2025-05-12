@@ -2,9 +2,9 @@
 title: A Second-Time Founder’s Lessons on Building Open Source Companies 
 description: Been there, done Dat(aStax). How Jonathan is approaching it this time around.
 people: [jonathan-ellis]
-session_id: 25012
-session_start: 2025-05-19 14:00:00 Z
-session_end: 2025-05-19 14:20:00 Z
+session_id: 25102
+session_start: 2025-05-19 09:40:00 Z
+session_end: 2025-05-19 10:00:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions

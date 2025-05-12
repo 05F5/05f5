@@ -3,8 +3,8 @@ title: Building an Open Source Growth Flywheel
 description: Learn how to design a growth model that takes your open source project from community to commercial success.
 people: [stephen-millidge]
 session_id: 25116
-session_start: 2025-05-19 14:45:00 Z
-session_end: 2025-05-19 14:50:00 Z
+session_start: 2025-05-20 14:45:00 Z
+session_end: 2025-05-20 14:50:00 Z
 editions: [2025]
 categories: [talk]
 layout: sessions
