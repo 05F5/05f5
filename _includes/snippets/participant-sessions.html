@@ -2,7 +2,7 @@
 {% if participant %}
 <div class="participant-sessions">
 {% assign found = 0 %}{% assign foundMonday = 0 %}{% assign foundTuesday = 0 %}
-{% assign sorted_sessions = site.sessions | sort: session_start | reverse %}
+{% assign sorted_sessions = site.sessions | sort: session_start %}
 {% for session in sorted_sessions %}
     {% assign year = {{session.session_start | date: "%Y" }} %}
     {% if year == "2025" %}
