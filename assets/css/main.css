@@ -358,6 +358,14 @@ main blockquote {
     background-image: url("../img/sponsors/osi.svg");
     background-size: 50%;
 }
+.footprints a.ato {
+    background-image: url("../img/sponsors/ato-logo-red.svg");
+    background-size: 55%;
+}
+.footprints a.openuk {
+    background-image: url("../img/sponsors/openuk.png");
+    background-size: 75%;
+}
 .footprints a.cta {
 }
 
