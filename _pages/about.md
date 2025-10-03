@@ -12,7 +12,7 @@ General startup programs, investors and your own employees often won’t underst
 challenges or take advantage of the opportunities unless they have open source experience. Open Source Founders Summit gives founders a place to learn from each other and support each other in building open source 
 companies.
 
-### What people said about OSFS 2024: 
+### What people said about the previous editions: 
 
 “Thank you for organising this great event! Looking forward to the next year's already!”
 	– Michael Widenius, founder of MySQL and MariaDB
