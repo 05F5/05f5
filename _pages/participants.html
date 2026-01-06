@@ -5,9 +5,9 @@ permalink: /participants
 ---
 
 <h2>Participants</h2>
-<p>Here are some of the previous years attendees:</p>
+<p>Here are some of the previous and future edition attendees:</p>
 <ul class="trombinoscope clearfix">
-    {% for participant in site.participants %}{% for edition in participant.editions %}{% if edition == 2025 %}
+    {% for participant in site.participants %}
     <li>
         <a class="clearfix" href="{{ "/participants" | absolute_url }}/{{participant.slug}}">
         {% include snippets/participant.html slug=participant.slug
@@ -16,7 +16,7 @@ permalink: /participants
         %}
         </a>
     </li>
-    {% endif %}{% endfor %}{% endfor %}
+    {% endfor %}
 </ul>
 
 <h3>And many more...</h3>
