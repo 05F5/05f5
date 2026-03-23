@@ -40,7 +40,7 @@
     width:14%;
     margin-right: 1rem;
     font-weight: bold;
-    padding-top:.2rem;
+    padding-top:1.4rem;
 }
 .schedule .session .session-description {
     max-width: 60%;
@@ -59,9 +59,11 @@
     float:right;
     width: 5rem;
     max-width:10%;;
+    border-radius: 7rem;
 }
 .schedule .session .avatar + .avatar {
     margin-right:-1rem;
+    border-radius: 7rem;
 }
 
 .schedule-people img {

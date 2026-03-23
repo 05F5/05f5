@@ -70,7 +70,7 @@ h1 {
 }
 h2 {
     font-weight: bold;
-    font-size: 2.6rem;
+    font-size: 2.5rem;
     padding-bottom:2.2rem;
 }
 h2:before {
@@ -164,6 +164,11 @@ nav a.logo {
     width:6.8rem;
     height:6.8rem;
     border-radius: 50%;
+}
+.people-picture img,
+.avatar img {
+    border-radius: 50%;
+    overflow: hidden;
 }
 .round span {
     padding-top:1.7rem;
