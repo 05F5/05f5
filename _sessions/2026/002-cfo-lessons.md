@@ -2,7 +2,7 @@
 title: CFO lessons for building profitable open source companies
 description: Practical financial insights and hard-won lessons from a CFO's perspective on how to build and sustain a profitable open source business.
 people: [alessandro-mazzocchetti]
-session_id: 26012
+session_id: 26002
 session_start: 2026-05-18 09:40:00 Z
 session_end: 2026-05-18 10:00:00 Z
 editions: [2026]
