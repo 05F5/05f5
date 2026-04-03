@@ -3,8 +3,8 @@ title: "How do you make money as an open source company?"
 description: "An exploration of the business models and revenue strategies that open source companies use to sustain themselves."
 people: [thibaut-rouffineau]
 session_id: 26002
-session_start: 2026-05-18 09:40:00 Z
-session_end: 2026-05-18 10:00:00 Z
+session_start: 2026-05-18 14:00:00 Z
+session_end: 2026-05-18 14:20:00 Z
 editions: [2026]
 categories: [talk]
 layout: sessions
