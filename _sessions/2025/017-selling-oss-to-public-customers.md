@@ -1,7 +1,7 @@
 ---
 title: Selling Open Source to public customers
 description: How to land contracts with public institutions.
-people: [johannes-loxen]
+people: []
 session_id: 25017
 session_start: 2025-05-19 14:55:00 Z
 session_end: 2025-05-19 15:00:00 Z
