@@ -2,7 +2,7 @@
 title: "Educating the market about open source solutions in general"
 description: "A workshop on strategies for raising awareness and understanding of open source among potential customers and decision-makers."
 people: [alexei-vladishev]
-session_id: 26015
+session_id: 26016
 session_start: 2026-05-18 14:25:00 Z
 session_end: 2026-05-18 15:25:00 Z
 editions: [2026]

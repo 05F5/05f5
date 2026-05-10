@@ -1,5 +1,5 @@
 ---
-title: How much is AI really going to change things? How do we prepare?
+title: How much is AI really going to change things?
 description: A panel discussion exploring the real-world impact of AI on open source and business, and practical steps to prepare for the shifts ahead.
 people: [yann-lechelle]
 session_id: 26114

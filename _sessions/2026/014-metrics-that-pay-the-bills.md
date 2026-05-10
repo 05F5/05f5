@@ -2,7 +2,7 @@
 title: "Metrics that pay the bills"
 description: "A workshop on identifying and tracking the metrics that actually drive revenue for open source businesses."
 people: [gael-fraiteur]
-session_id: 26013
+session_id: 26014
 session_start: 2026-05-18 14:25:00 Z
 session_end: 2026-05-18 15:25:00 Z
 editions: [2026]

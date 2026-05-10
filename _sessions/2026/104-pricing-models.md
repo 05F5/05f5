@@ -2,9 +2,9 @@
 title: "Pricing models"
 description: "A workshop on the practical side of pricing: what to charge, how much, and how to raise prices."
 people: [looking-for-moderator]
-session_id: 26007
-session_start: 2026-05-18 10:05:00 Z
-session_end: 2026-05-18 11:05:00 Z
+session_id: 26104
+session_start: 2026-05-19 10:05:00 Z
+session_end: 2026-05-19 11:05:00 Z
 editions: [2026]
 categories: [workshop]
 layout: sessions

@@ -1,10 +1,10 @@
 ---
 title: We Didn't Build a Funnel. We Found One.
-description: A lightning talk about discovering organic adoption and conversion patterns in open source rather than engineering them from the top down.
+description: A lightning talk on how an internal Mesosphere DCOS dashboard became the trigger for a Product-Led Growth motion.
 people: [matthew-trifiro]
 session_id: 26116
-session_start: 2026-05-19 16:00:00 Z
-session_end: 2026-05-19 16:30:00 Z
+session_start: 2026-05-19 16:05:00 Z
+session_end: 2026-05-19 16:10:00 Z
 editions: [2026]
 categories: [talk]
 layout: sessions
@@ -13,4 +13,4 @@ permalink: /schedule/2026/we-found-a-funnel
 published: true
 ---
 
-A lightning talk about discovering organic adoption and conversion patterns in open source rather than engineering them from the top down.
+How an internal Mesosphere DCOS dashboard became the trigger for our Product-Led Growth motion.
