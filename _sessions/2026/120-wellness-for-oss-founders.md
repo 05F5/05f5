@@ -2,9 +2,9 @@
 title: "Wellness for open source founders"
 description: "A workshop on maintaining personal well-being while navigating the unique pressures of leading an open source company."
 people: [kevin-muller]
-session_id: 26004
-session_start: 2026-05-18 10:05:00 Z
-session_end: 2026-05-18 11:05:00 Z
+session_id: 26120
+session_start: 2026-05-19 14:25:00 Z
+session_end: 2026-05-19 15:25:00 Z
 editions: [2026]
 categories: [workshop]
 layout: sessions
