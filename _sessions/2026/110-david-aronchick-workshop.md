@@ -1,6 +1,6 @@
 ---
-title: "David's work-in-progress workshop"
-description: "David launched Kubernetes at Google but can't pick a workshop topic. We trust the process."
+title: "Pricing strategies for open source companies"
+description: "A workshop with David Aronchick on how to think about pricing for open source businesses."
 people: [david-aronchick]
 session_id: 26110
 session_start: 2026-05-19 12:00:00 Z
@@ -13,4 +13,4 @@ permalink: /schedule/2026/david-aronchick-workshop
 published: true
 ---
 
-David launched Kubernetes at Google but can't pick a workshop topic. We trust the process. Whatever he lands on, it'll be worth the wait. Stay tuned.
+David Aronchick (Expanso) leads a workshop on pricing strategies for open source companies — how to set prices, structure tiers, and avoid the common traps.
