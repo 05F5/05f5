@@ -1,5 +1,5 @@
 ---
-title: "Founders therapy v2: how to have more fun and become a better founder"
+title: "Founders therapy v2: have more fun to be a better founder"
 description: "Practical tools to have more fun and become a better founder"
 people: [kevin-muller]
 session_id: 26120
